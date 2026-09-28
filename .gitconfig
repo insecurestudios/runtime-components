@@ -1,0 +1,9 @@
+[user]
+	name = Liam Hatley
+	email = wholefishsandwich@gmail.com
+[init]
+	defaultBranch = main
+[core]
+	editor = vim
+[pull]
+	rebase = true
